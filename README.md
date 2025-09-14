@@ -1,29 +1,25 @@
-# 📈 HMDataVue Insights
+# 🛠 HMDataVue Utils
 
-Welcome to **HMDataVue Insights**—a curated collection of exploratory data analysis projects designed to uncover patterns, trends, and stories hidden in raw data.
+A toolbox of reusable scripts, functions, and workflow enhancements for data science and analytics. This repo is all about efficiency, clarity, and scalability.
 
-## 🔍 What This Repo Offers
+## 🔧 What's Included
 
-- 🧪 **EDA Notebooks**: Deep dives into datasets with visual and statistical exploration.
-- 📊 **Insight Reports**: Clear, concise summaries of findings with actionable takeaways.
-- 🎨 **Visual Narratives**: Charts and dashboards that make complex data intuitive.
-- 🧠 **Strategic Commentary**: Thoughtful reflections on what the data means and how it can be used.
+- 📜 Data cleaning and preprocessing scripts
+- 🧮 Feature transformation utilities
+- 📦 Custom Python functions for modeling and visualization
+- 🔁 Automation helpers for repetitive tasks
 
-## 🧭 Why It Matters
+## 💡 Why It Matters
 
-In a world flooded with information, insight is the edge. This repo is where I sharpen that edge—transforming noise into clarity, and numbers into narratives.
+Great data work starts with great tools. These utilities streamline the process so I can focus on insight, not boilerplate.
 
-## 🛠 Tools & Tech
+## 🧰 Tech Stack
 
-- Python (Pandas, Matplotlib, Seaborn, Plotly)
+- Python (Pandas, NumPy, Regex)
 - Jupyter Notebooks
-- SQL (where applicable)
-- Markdown for clean documentation
+- YAML/JSON for config-driven workflows
 
-## 📫 Connect & Collaborate
+## 📫 Reach Out
 
-Curious about a project? Want to collaborate or share feedback?
 - [LinkedIn](https://www.linkedin.com/in/hillarymupfumi)
-- [Email](mailto:humpfumi@gmail.com)
-
----
+- [Email](mailto:hmupfumi@gmail.com)
